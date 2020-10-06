@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning ... 
-https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg
+
+### 💬 Ask me about ...
+### 📫 How to reach me: ...
 
 <!--
 **DaaTimon/DaaTimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
