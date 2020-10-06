@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning ... 
-<p align="left">
- <a href="#">
-    <img src="help/Python.svg" alt="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
+
 ### 💬 Ask me about ...
 ### 📫 How to reach me: ...
 
