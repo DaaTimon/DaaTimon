@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning ... 
-<p align="center">
+<p align="left">
    <a href=#>
   <img
        src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/html.svg"
        alt="HTML Badge"
-       style="vertical-align:top margin:6px 4px"
+       style="vertical-align:top margin:6px 6px"
        >
      
 <a href=#>
   <img
        src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/python.svg"
        alt="Python Badge"
-       style="vertical-align:top margin:6px 4px"
+       style="vertical-align:top margin:6px 6px"
        >
   
  
