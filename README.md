@@ -12,6 +12,13 @@
  ### - :mortar_board: I want to learn
  <a href=#>
    <img
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/ai.svg"
+       alt="AI Badge"
+       style="vertical-align:top margin:6px 6px"
+       >
+ <br />
+ <a href=#>
+   <img
        src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/html.svg"
        alt="HTML Badge"
        style="vertical-align:top margin:6px 6px"
