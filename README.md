@@ -19,11 +19,17 @@
  ---
  
 ### - 💪🏼 A few of my favorite tools/platforms are: 
-<p align="left">
    <a href=#>
   <img
-       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/html.svg"
-       alt="HTML Badge"
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/pc.svg"
+       alt="PC Badge"
+       style="vertical-align:top margin:6px 6px"
+       >
+   <br />
+   <a href=#>
+  <img
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/visualstudio.svg"
+       alt="Visual Studio Badge"
        style="vertical-align:top margin:6px 6px"
        >
 ---
