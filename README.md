@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning ... 
+<p align="center">
+   <a href=#>
+  <img
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/html.svg"
+       alt="HTML Badge"
+       style="vertical-align:top margin:6px 4px"
+       >
+     
 <a href=#>
   <img
        src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/python.svg"
@@ -8,6 +16,7 @@
        style="vertical-align:top margin:6px 4px"
        >
   
+ 
  ---
   
 ### 💬 Ask me about ...
