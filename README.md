@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning ... 
-<p align="left">
-   <a href=#>
-  <img
+<a href=#>
+   <img
        src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/html.svg"
        alt="HTML Badge"
        style="vertical-align:top margin:6px 6px"
        >
-     
+<br />
 <a href=#>
-  <img
+   <img
        src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/python.svg"
        alt="Python Badge"
        style="vertical-align:top margin:6px 6px"
@@ -18,7 +17,17 @@
   
  
  ---
-  
+ 
+### - 💪🏼 A few of my favorite tools/platforms are: 
+<p align="left">
+   <a href=#>
+  <img
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/html.svg"
+       alt="HTML Badge"
+       style="vertical-align:top margin:6px 6px"
+       >
+---
+
 ### 💬 Ask me about ...
 
 ---
