@@ -18,7 +18,7 @@
  
  ---
  
-### - 💪🏼 A few of my favorite tools/platforms are: 
+### - :thumbsup: A few of my favorite tools/platforms are: 
    <a href=#>
   <img
        src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/pc.svg"
@@ -35,11 +35,14 @@
       
 ---
 
-### 💬 Ask me about ...
-
----
-
 ### 📫 How to reach me: ...
+<a href="mailto:Simondst98@gmail.com">
+  <img 
+    src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/email_me.svg" 
+    alt="email me badge" 
+    style="vertical-align:top margin:6px 4px"
+  >
+
 
 <!--
 **DaaTimon/DaaTimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
