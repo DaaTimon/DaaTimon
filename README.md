@@ -24,7 +24,14 @@
        style="vertical-align:top margin:6px 6px"
        >
 <br />
-    
+    <a href=#>
+   <img
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/rasberrypi.svg"
+       alt="Rasbery Pi Badge"
+       style="vertical-align:top margin:6px 6px"
+       >
+<br />
+ 
 ---  
 ### - :thumbsup: A few of my favorite tools/platforms are: 
    <a href=#>
