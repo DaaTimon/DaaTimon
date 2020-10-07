@@ -32,6 +32,7 @@
        alt="Visual Studio Badge"
        style="vertical-align:top margin:6px 6px"
        >
+      
 ---
 
 ### 💬 Ask me about ...
