@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning ... 
-
+<a href=#>
+  <img
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/python.svg"
+       alt="Python Badge"
+       style="vertical-align:top margin:6px 4px"
+       >
 ### 💬 Ask me about ...
 ### 📫 How to reach me: ...
 
