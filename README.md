@@ -3,21 +3,29 @@
 ### 🌱 I’m currently learning ... 
 <a href=#>
    <img
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/python.svg"
+       alt="Python Badge"
+       style="vertical-align:top margin:6px 6px"
+       >
+   
+ ---
+ ### - :mortar_board: I want to learn
+ <a href=#>
+   <img
        src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/html.svg"
        alt="HTML Badge"
        style="vertical-align:top margin:6px 6px"
        >
 <br />
-<a href=#>
+ <a href=#>
    <img
-       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/python.svg"
-       alt="Python Badge"
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/java_script.svg"
+       alt="Java Script Badge"
        style="vertical-align:top margin:6px 6px"
        >
-  
- 
- ---
- 
+<br />
+    
+---  
 ### - :thumbsup: A few of my favorite tools/platforms are: 
    <a href=#>
   <img
@@ -34,7 +42,6 @@
        >
       
 ---
-
 ### 📫 How to reach me: ...
 <a href="mailto:Simondst98@gmail.com">
   <img 
