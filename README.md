@@ -10,6 +10,13 @@ I am a recent graduate from Arizona State Univerity with a Bachelors in Science 
        alt="Python Badge"
        style="vertical-align:top margin:6px 6px"
        >
+ <br />
+  <a href=#>
+   <img
+       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/html.svg"
+       alt="HTML Badge"
+       style="vertical-align:top margin:6px 6px"
+       >
    
  ---
  ### - :mortar_board: I want to learn
@@ -17,13 +24,6 @@ I am a recent graduate from Arizona State Univerity with a Bachelors in Science 
    <img
        src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/ai.svg"
        alt="AI Badge"
-       style="vertical-align:top margin:6px 6px"
-       >
- <br />
- <a href=#>
-   <img
-       src="https://raw.githubusercontent.com/DaaTimon/DaaTimon/main/icons/html.svg"
-       alt="HTML Badge"
        style="vertical-align:top margin:6px 6px"
        >
 <br />
