@@ -1,6 +1,6 @@
 ### Welcome to my page! :tada:
 
-I am a recent graduate from Arizona State Univerity with a Bachelors in Science in Unmanned Aerial Systems (drones!). I grew up as a military brat moving from back and forth between the West Coast and Japan. While I was born in California I was mostly raised in Japan with my younger brother and sister. Growing up in another country opens up ones eyes to the world that is out there. The Japanese have a level of attention to detail, care, and hospitality that are shown throughout their culture and the products that they make. I truely believe in these attributes of Japanese culture and I have adopted them as my own both in life and in my work.
+I am a recent graduate from Arizona State Univerity with a Bachelors in Science in Unmanned Aerial Systems (drones!). I grew up as a military brat moving from back and forth between the West Coast and Japan. While I was born in California I was mostly raised in Japan with my younger brother and sister. Growing up in another country opens up ones eyes to the world that is out there. The Japanese have a level of attention to detail, care, and hospitality that are shown throughout their culture and the products that they make. I truly believe in these attributes of Japanese culture and I have adopted them as my own both in life and in my work.
  
 
 ### 🌱 I’m currently learning ... 
